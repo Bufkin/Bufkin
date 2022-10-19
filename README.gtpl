@@ -3,17 +3,17 @@
 </a></p>
 
 <p align="center"><a href="https://wakatime.com/@bufkin">
-  <img align="center" width="400" height="300" src="https://wakatime.com/share/@christitustech/4c17a227-eb23-48c5-a2f1-492e5538842c.svg" />
+  <img align="center" width="400" height="300" src="https://wakatime.com/share/@Bufkin/a4b7b189-6979-48c1-b94c-0438c45e9d8f.svg" />
 </a>
 <a href="https://wakatime.com/@Bufkin">
-  <img align="center" width="400" height="300" src="https://wakatime.com/share/@christitustech/57160975-2111-472e-bc92-f390b42053b3.svg" />
+  <img align="center" width="400" height="300" src="https://wakatime.com/share/@Bufkin/f03d1fcf-71cc-4b1f-851f-55a5ad3aaf0d.svg" />
 </a></p>
 
 <p align="center"><a href="https://wakatime.com/@Bufkin">
-  <img align="center" width="400" height="300" src="https://wakatime.com/share/@christitustech/b7d6c245-11dd-4802-a2dd-8ff0fd915324.svg" />
+  <img align="center" width="400" height="300" src="https://wakatime.com/share/@Bufkin/5c5b5eea-2833-4fd8-95fa-73038f55f764.svg" />
 </a>
 <a href="https://wakatime.com/@Bufkin">
-  <img align="center" width="400" height="300" src="https://wakatime.com/share/@christitustech/29475f0b-8d50-47b4-aaf5-f96bdcab9d0d.svg" />
+  <img align="center" width="400" height="300" src="https://wakatime.com/share/@Bufkin/194b00e8-5ae7-414c-b350-4e3442178cb7.svg" />
 </a></p>
 
 ### 👷 Check out what I'm currently working on
