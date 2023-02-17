@@ -18,6 +18,6 @@
 
 ### 📫 How to reach me:
 
-- Youtube : <https://www.youtube.com/channel/UCCyXaHrmULPTnjIWn0AJIZg>
-- Twitch : <https://www.twitch.tv/super_sebi>
-- Twitter : <https://twitter.com/super_sebi>
+- Youtube: <https://www.youtube.com/channel/UCCyXaHrmULPTnjIWn0AJIZg>
+- Twitch: <https://www.twitch.tv/super_sebi>
+- Twitter: <https://twitter.com/super_sebi>
